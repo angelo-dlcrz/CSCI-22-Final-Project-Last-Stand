@@ -12,7 +12,7 @@ Be ready, aim steady, and do what’s necessary to survive. Do you have what it 
 
 1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository into your working machine.
 2. Make sure that you have [Java](https://www.oracle.com/java/technologies/downloads/) installed in your machine. It is recommended to use Java 8 or older.
-3. Run the command line. Change your working directory into the directory where you cloned this repository. A bunch of [.java]() files can be found there. Check by typing `dir` on Windows or `ls` on MacOS/Linux in your command line. Once there, enter the following commands:
+3. Run the command line. Change your working directory into the directory where you cloned this repository. A bunch of [.java]() files can be found there. Check by typing `dir` on Windows or `ls` on macOS/Linux in your command line. Once there, enter the following commands:
 
 ```console
 $ javac *.java
