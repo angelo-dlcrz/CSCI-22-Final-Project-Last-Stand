@@ -114,3 +114,6 @@ $ java GameStarter.java
    4. Note that tapping or holding down the space key doesn’t have any effect on the accuracy of shots.
 
 Make your Last Stand! 
+
+## Credits
+Big thanks to [Dustin](https://github.com/DustinAgner27) for co-creating this with me!
